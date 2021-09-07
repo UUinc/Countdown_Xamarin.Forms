@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Countdown.Android", "Countdown.Android\Countdown.Android.csproj", "{7282922B-45D3-45EF-B70F-DE45B5821EC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Countdown", "Countdown\Countdown.csproj", "{BE5E955E-5C5A-4810-84B2-C2772482A619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7282922B-45D3-45EF-B70F-DE45B5821EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7282922B-45D3-45EF-B70F-DE45B5821EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7282922B-45D3-45EF-B70F-DE45B5821EC7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7282922B-45D3-45EF-B70F-DE45B5821EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7282922B-45D3-45EF-B70F-DE45B5821EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7282922B-45D3-45EF-B70F-DE45B5821EC7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BE5E955E-5C5A-4810-84B2-C2772482A619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5E955E-5C5A-4810-84B2-C2772482A619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5E955E-5C5A-4810-84B2-C2772482A619}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BE5E955E-5C5A-4810-84B2-C2772482A619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5E955E-5C5A-4810-84B2-C2772482A619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5E955E-5C5A-4810-84B2-C2772482A619}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43C8103D-C3C2-4DEE-8504-66F60F76F262}
+	EndGlobalSection
+EndGlobal

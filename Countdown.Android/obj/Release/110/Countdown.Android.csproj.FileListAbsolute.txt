@@ -1,0 +1,4 @@
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown.Android\obj\Release\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown.Android\obj\Release\110\build.props
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown.Android\obj\Release\110\adb.props
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown.Android\obj\Release\110\Countdown.Android.csproj.AssemblyReference.cache

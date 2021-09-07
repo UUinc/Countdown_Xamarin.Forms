@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown\bin\Release\netstandard2.0\Countdown.deps.json
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown\bin\Release\netstandard2.0\Countdown.dll
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown\bin\Release\netstandard2.0\ref\Countdown.dll
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown\bin\Release\netstandard2.0\Countdown.pdb
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown\obj\Release\netstandard2.0\Countdown.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown\obj\Release\netstandard2.0\AddPage.xaml.g.cs
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown\obj\Release\netstandard2.0\Countdown.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown\obj\Release\netstandard2.0\Countdown.AssemblyInfo.cs
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown\obj\Release\netstandard2.0\Countdown.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown\obj\Release\netstandard2.0\Countdown.dll
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown\obj\Release\netstandard2.0\ref\Countdown.dll
+C:\Users\hp\Desktop\ABC\M\Countdown\Countdown\obj\Release\netstandard2.0\Countdown.pdb

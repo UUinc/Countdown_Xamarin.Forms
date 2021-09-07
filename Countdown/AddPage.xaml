@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Countdown.AddPage"
+             BackgroundColor="White"
+             Title="Add Event">
+
+    <AbsoluteLayout>
+        <!--Event title-->
+        <Label Text="Event Title :"
+               TextColor="White"
+               FontSize="22"
+               WidthRequest="140"
+               HorizontalTextAlignment="Center"
+               BackgroundColor="LightSkyBlue"
+               AbsoluteLayout.LayoutFlags="PositionProportional"
+               AbsoluteLayout.LayoutBounds=".1, .08"/>
+        
+        <Entry x:Name="EventName"
+               TextColor="SkyBlue"
+               FontAttributes="Bold"
+               PlaceholderColor="SkyBlue"
+               Placeholder="e.g. birthday"
+               HorizontalOptions="StartAndExpand"
+               WidthRequest="180"
+               AbsoluteLayout.LayoutFlags="PositionProportional"
+               AbsoluteLayout.LayoutBounds=".85, .07"/>
+        <!--Background color-->
+        <Label Text="Background Color (hex):"
+               TextColor="White"
+               FontSize="22"
+               WidthRequest="140"
+               HorizontalTextAlignment="Center"
+               BackgroundColor="LightSkyBlue"
+               AbsoluteLayout.LayoutFlags="PositionProportional"
+               AbsoluteLayout.LayoutBounds=".1, .18"/>
+
+        <Entry x:Name="EventColor"
+               Text="#71A0F7"
+               TextColor="SkyBlue"
+               FontAttributes="Bold"
+               PlaceholderColor="SkyBlue"
+               Placeholder="e.g. birthday"
+               HorizontalOptions="StartAndExpand"
+               WidthRequest="180"
+               AbsoluteLayout.LayoutFlags="PositionProportional"
+               AbsoluteLayout.LayoutBounds=".85, .205"/>
+        
+        <!--Colors palette-->
+        <Button BackgroundColor="#fc4e4e"
+                WidthRequest="50"
+                AbsoluteLayout.LayoutFlags="PositionProportional"
+                AbsoluteLayout.LayoutBounds=".1, .3"
+                Clicked="ColorBTN"/>
+
+        <Button BackgroundColor="#3eb1ef"
+                WidthRequest="50"
+                AbsoluteLayout.LayoutFlags="PositionProportional"
+                AbsoluteLayout.LayoutBounds=".3, .3"
+                Clicked="ColorBTN"/>
+
+        <Button BackgroundColor="#f4de6e"
+                WidthRequest="50"
+                AbsoluteLayout.LayoutFlags="PositionProportional"
+                AbsoluteLayout.LayoutBounds=".5, .3"
+                Clicked="ColorBTN"/>
+
+        <Button BackgroundColor="#4be55b"
+                WidthRequest="50"
+                AbsoluteLayout.LayoutFlags="PositionProportional"
+                AbsoluteLayout.LayoutBounds=".7, .3"
+                Clicked="ColorBTN"/>
+
+        <Button BackgroundColor="#e86de6"
+                WidthRequest="50"
+                AbsoluteLayout.LayoutFlags="PositionProportional"
+                AbsoluteLayout.LayoutBounds=".9, .3"
+                Clicked="ColorBTN"/>
+
+        <!--Date and Time-->
+        <Label Text="Date and Time :"
+               TextColor="White"
+               FontSize="22"
+               VerticalTextAlignment="Center"
+               HeightRequest="60"
+               WidthRequest="180"
+               HorizontalTextAlignment="Center"
+               BackgroundColor="LightSkyBlue"
+               AbsoluteLayout.LayoutFlags="PositionProportional"
+               AbsoluteLayout.LayoutBounds=".5, .5"/>
+        
+        <DatePicker x:Name="EventDate"
+                    TextColor="LightSkyBlue"
+                    AbsoluteLayout.LayoutFlags="PositionProportional"
+                    AbsoluteLayout.LayoutBounds=".3, .65"/>
+
+        <TimePicker x:Name="EventTime"
+                    TextColor="LightSkyBlue"
+                    AbsoluteLayout.LayoutFlags="PositionProportional"
+                    AbsoluteLayout.LayoutBounds=".7, .65"/>
+        
+        <!--Submit button-->
+        <Button Text="Generate"
+                TextColor="white"
+                FontSize="22"
+                FontAttributes="Bold"
+                BackgroundColor="LightSkyBlue"
+                CornerRadius="250"
+                HeightRequest="80"
+                WidthRequest="200"
+                AbsoluteLayout.LayoutFlags="PositionProportional"
+                AbsoluteLayout.LayoutBounds=".5, .9"
+                Clicked="Button_Clicked"/>
+
+    </AbsoluteLayout>
+    
+</ContentPage>
